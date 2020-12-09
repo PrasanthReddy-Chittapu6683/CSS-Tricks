@@ -11,7 +11,7 @@ CSS tricks and Short cuts to make big changes in UI
     
     
 ```
-HTML & CSS Code snippet:
+#### HTML & CSS Code snippet:
 
 ``` javascript
 <!DOCTYPE html>
