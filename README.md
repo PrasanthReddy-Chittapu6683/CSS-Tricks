@@ -2,7 +2,7 @@
 CSS tricks and Short cuts to make big changes in UI 
 
 ## Display divs in grid format with responsive easily with below css script 
-![](./images/DivsGridFormat.PNG)
+![](./images/DivsGridFormat1.PNG)
 ``` javascript
     row-gap: 20px;
     column-gap: 20px;
